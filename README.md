@@ -4,7 +4,7 @@
 # Welcome to my github profile!
 
 ! I'm Gustavo
-+ Living in São Paulo, Brazil 🇧🇷.
++ Living in São Paulo, Brazil
 - 17 years old
 # 📖 Programming languages, web development
 + I like chill vibes
