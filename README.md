@@ -8,4 +8,5 @@
 - 17 years old
 # 📖 Programming languages, web development
 + I like chill vibes
+# Student and full-time programmer
 ```
