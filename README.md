@@ -10,6 +10,5 @@
 + I like chill vibes
 # 📚 Student and full-time programmer
 ```
-<p align=center>
-  <img height="80px" src="https://discord.c99.nl/widget/theme-4/85197024932159488.png" />
-</p>
+
+  ![](https://github.com/DollnKey/snk/raw/output/github-contribution-grid-snake.svg)
