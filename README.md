@@ -7,7 +7,7 @@
 + Living in São Paulo, Brazil
 - 17 years old
 # 📖 Programming languages, web development
-+ I like chill vibes
++ DMP Volunteer Moderator
 # 📚 Student and full-time programmer
 ```
 
