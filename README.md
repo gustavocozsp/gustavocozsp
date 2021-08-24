@@ -11,4 +11,6 @@
 # 📚 Student and full-time programmer
 ```
 
-        ![](https://github.com/DollnKey/snk/raw/output/github-contribution-grid-snake.svg)
+<p align=center>
+      ![](https://github.com/DollnKey/snk/raw/output/github-contribution-grid-snake.svg)
+</p>
