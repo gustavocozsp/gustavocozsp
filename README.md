@@ -10,3 +10,5 @@
 + I like chill vibes
 # 📚 Student and full-time programmer
 ```
+
+  ![](https://github.com/impugne/snk/raw/output/github-contribution-grid-snake.svg)
