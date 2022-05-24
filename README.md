@@ -1,4 +1,4 @@
-<img align="right" height="220" src="https://i2.wp.com/cdn.statically.io/img/data.whicdn.com/images/322812879/original.gif"/>
+<img align="" height="220" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 ```diff
 # Welcome to my Github profile!
