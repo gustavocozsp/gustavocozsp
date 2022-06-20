@@ -3,7 +3,7 @@
 
 ! I'm Gustavo
 + Living in São Paulo, Brazil
-- 17 years old
+- 18 years old
 # 📖 Programming languages, web development
 # 📚 Student and full-time programmer
 ```
