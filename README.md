@@ -6,6 +6,19 @@
 - 18 years old
 # 📖 Programming languages, web development
 # 📚 Student and full-time programmer
+
+{
+  Stats: {
+    Language: 'JavaScript',
+    OS: 'Windows',
+    Databases: [
+        {
+            'MySQL',
+            'MongoDB'
+        }
+    ],
+  },
+}
 ```
 ![](https://komarev.com/ghpvc/?username=impugne)
 
