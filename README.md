@@ -1,3 +1,9 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient&customColorList=12" />
+
+<h3 align="center">About Me</h3>
+<div align="center">
+Hobby programmer who enjoys modding applications to do things they aren't meant to. <br>
+
 ```diff
 # Welcome to my Github profile!
 
@@ -8,8 +14,24 @@
 # 📚 Student and full-time programmer
 
 ```
-![](https://komarev.com/ghpvc/?username=impugne)
+</div>
 
-<p align="center">
-  <img align="center" height="220" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
-</p
+<h3 align="center">Languages</h3>
+<div align="center" style="margin-top: 10px">
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript&theme=dark" />
+</div>
+
+<h3 align="center">Tools</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,powershell,git&theme=dark" />
+</div>
+
+<h3 align="center">Databases</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+</div>
+
+<h3 align="center">Other</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=heroku,cloudflare&theme=dark" />
+</div>
