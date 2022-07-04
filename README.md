@@ -5,9 +5,9 @@
 Hobby programmer who enjoys modding applications to do things they aren't meant to. <br>
 
 
+    
+    
 ```diff
-    
-    
 ! I'm Gustavo
 + Living in São Paulo, Brazil
 - 18 years old
