@@ -3,8 +3,8 @@
 
 <h3 align="center">About Me</h3>
 <div align="center">
-Back-end developer who has a hobby of automating applications and modifying applications that would not normally have this function <br>>
-</div>
+Back-end developer who has a hobby of automating applications and modifying applications that would not normally have this function <br>
+</div
 
 <h3 align="center">Languages</h3>
 <div align="center" style="margin-top: 10px">
