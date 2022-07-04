@@ -1,11 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient&customColorList=12" />
 
-
 <h3 align="center">About Me</h3>
 <div align="center">
 Back-end developer who has a hobby of automating applications <br>
 and modifying applications that would not normally have this function
-</div
+</div>
 
 <h3 align="center">Languages</h3>
 <div align="center" style="margin-top: 10px">
