@@ -5,12 +5,6 @@
 <div align="center">
 
 Hobby programmer who enjoys modding applications to do things they aren't meant to. <br>
-
-! I'm Gustavo
-+ Living in São Paulo, Brazil
-- 18 years old
-# 📖 Programming languages, web development
-# 📚 Student and full-time programmer
 </div>
 
 <h3 align="center">Languages</h3>
