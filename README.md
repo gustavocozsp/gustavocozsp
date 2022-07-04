@@ -3,6 +3,7 @@
 
 <h3 align="center">About Me</h3>
 <div align="center">
+Back-end developer who has a hobby of automating applications and modifying applications that would not normally have this function <br>>
 📖 Programming languages, web development <br>
 📚 Student and full-time programmer <br>
 </div>
