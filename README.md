@@ -3,7 +3,7 @@
 
 <h3 align="center">About Me</h3>
 <div align="center">
-    ```diff
+```diff
 Hobby programmer who enjoys modding applications to do things they aren't meant to. <br>
 
 
