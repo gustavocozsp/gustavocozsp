@@ -21,8 +21,3 @@ Hobby programmer who enjoys modding applications to do things they aren't meant 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 </div>
-
-<h3 align="center">Other</h3>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=heroku,cloudflare&theme=dark" />
-</div>
