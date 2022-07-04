@@ -4,7 +4,7 @@
 <h3 align="center">About Me</h3>
 <div align="center">
 Back-end developer who has a hobby of automating applications <br>
-and modifying applications that would not normally have this function <br>
+and modifying applications that would not normally have this function
 </div
 
 <h3 align="center">Languages</h3>
