@@ -3,7 +3,6 @@
 
 <h3 align="center">About Me</h3>
 <div align="center">
-
 📖 Programming languages, web development <br>
 📚 Student and full-time programmer <br>
 </div>
