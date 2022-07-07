@@ -1,22 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient&customColorList=12" />
+```diff
+# Welcome to my Github profile!
 
-<h3 align="center">About Me</h3>
-<div align="center">
-Back-end developer who has a hobby of automating applications <br>
-and modifying applications that would not normally have this function
-</div>
+! I'm Gustavo
++ Living in São Paulo, Brazil
+- 18 years old
+# 📖 Programming languages, web development
+# 📚 Student and full-time programmer
 
-<h3 align="center">Languages</h3>
-<div align="center" style="margin-top: 10px">
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript&theme=dark" />
-</div>
+```
+![](https://komarev.com/ghpvc/?username=impugne)
 
-<h3 align="center">Tools</h3>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,powershell,git&theme=dark" />
-</div>
-
-<h3 align="center">Databases</h3>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-</div>
+<p align="center">
+  <img align="center" height="220" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+</p
