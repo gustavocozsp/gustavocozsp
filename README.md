@@ -1,4 +1,4 @@
-```json
+```js
 {
   user: {
     username: 'Gustavo',
