@@ -1,16 +1,13 @@
-```diff
-# Welcome to my Github profile!
-
-! I'm Gustavo
-+ Living in São Paulo, Brazil
-- 18 years old
-# 📖 Programming languages, web development
-# 📚 Student and full-time programmer
-
-```
-
-<p align="center">
-  <img align="center" height="220" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
-</p
-
-![](https://komarev.com/ghpvc/?username=impugne)
+```json
+{
+  user: {
+    username: 'Gustavo',
+    age: '18',
+    location: 'São Paulo, Brasi',  
+    occupation : 'Student and full-time programmer',
+    hobby: 'Programming languages, web development',
+    bio: 'https://www.instagram.com/impugne/\n' +
+      'https://weheartit.com/gustavo\n' +        
+      'https://www.tiktok.com/@sux'
+  }
+}
