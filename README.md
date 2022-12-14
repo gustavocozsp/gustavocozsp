@@ -1,6 +1,6 @@
 ```js
 {
-  user: {
+  User: {
     username: 'Gustavo',
     age: '18',
     location: 'São Paulo, Brasi',  
