@@ -7,7 +7,7 @@
     occupation : 'Student and full-time programmer',
     hobby: 'Programming languages, web development',
     bio: 'https://www.instagram.com/impugne/\n' +
-      'https://weheartit.com/gustavo\n' +        
+      'https://soundcloud.com/07h\n' +        
       'https://www.tiktok.com/@sux'
   }
 }
