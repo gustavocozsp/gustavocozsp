@@ -3,7 +3,7 @@
   User: {
     username: 'Gustavo',
     age: '18',
-    location: 'São Paulo, Brasi',  
+    location: 'São Paulo, Brasil',  
     occupation : 'Student and full-time programmer',
     hobby: 'Programming languages, web development',
     bio: 'https://www.instagram.com/impugne/\n' +
