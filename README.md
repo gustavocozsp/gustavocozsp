@@ -1,7 +1,7 @@
 ```js
 {
   User: {
-    username: 'Gabriel',
+    username: 'Gustavo',
     age: '18',
     location: 'São Paulo, Brasil',  
     occupation : 'Student and full-time programmer',
