@@ -22,8 +22,4 @@
 }
 ```
 
-<p align="center">
-  <img src="https://waifuvault.moe/f/894c9465-d022-448b-b840-49a45fe9ecaf/rei-ayanami-anime-desktop-wallpaper-manga-anime-15c8f11493b7a8d7a1a507ebec3f0329.png" width="750"/>
-</p>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
